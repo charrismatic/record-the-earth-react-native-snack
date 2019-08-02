@@ -1,13 +1,66 @@
-# Sample Snack app
 
-Welcome to Expo!
+# record-the-earth-react-native-snack
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+> record the earth react native project files for expo and snack
 
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+Version: 0.0.0
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+Topics: [react-native](https://github.com/topics/react-native),  [sound-recording](https://github.com/topics/sound-recording),  [expo](https://github.com/topics/expo),  [sncak](https://github.com/topics/sncak),  
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+
+## About
+
+[https://github.com/charrismatic/record-the-earth-react-native-snack#readme](https://github.com/charrismatic/record-the-earth-react-native-snack#readme)
+
+### Author
+
+Matt Harris <charrismatic@protonmail.com> (https://charrismatic.github.io/)
+
+---
+
+### Project Repo
+
+-  type: "git"
+-  url: "git+https://github.com/charrismatic/record-the-earth-react-native-snack.git"
+
+## Dependencies
+
+-  expo: "^34.0.0"
+-  react: "16.8.3"
+-  react-native: "https://github.com/expo/react-native/archive/sdk-34.0.1.tar.gz"
+-  @expo/samples: "3.0.3"
+-  @react-navigation/core: "^3.0.0-alpha.13"
+-  @react-navigation/web: "1.0.0-alpha.9"
+-  react-dom: "*"
+-  react-native-elements: "1.1.0"
+-  react-native-paper: "2.16.0"
+-  react-navigation: "3.11.1"
+
+### Config Options
+
+
+
+## Usage
+
+-  start: "node ."
+-  test: "standard"
+
+## Development
+
+
+
+### Contributors
+
+
+
+### Issues
+
+-  url: "https://github.com/charrismatic/record-the-earth-react-native-snack/issues"
+
+---
+
+### Licesnse
+
+MIT[MIT](https://opensource.org/licenses/undefined)
+

@@ -1,8 +1,8 @@
 {
-  "name": "recordsnack",
+  "name": "record-the-earth-react-native-snack",
   "version": "0.0.0",
-  "description": "No description",
-  "author": null,
+  "description": "record the earth react native project files for expo and snack",
+  "author": "Matt Harris <charrismatic@protonmail.com> (https://charrismatic.github.io/)",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
@@ -16,5 +16,24 @@
     "react-native-elements": "1.1.0",
     "react-native-paper": "2.16.0",
     "react-navigation": "3.11.1"
-  }
+  },
+  "scripts": {
+    "start": "node .",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charrismatic/record-the-earth-react-native-snack.git"
+  },
+  "keywords": [
+    "react-native",
+    "sound-recording",
+    "expo",
+    "sncak"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charrismatic/record-the-earth-react-native-snack/issues"
+  },
+  "homepage": "https://github.com/charrismatic/record-the-earth-react-native-snack#readme"
 }
